@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE Contact SYSTEM "Contact.dtd">
+<Contact>
+	<Name>
+		<First>Jane</First>
+		<Last>Doe</Last>
+	</Name>
+	<Email>JaneDoe@PP.com
+	</Email>
+	<Comment>Please send me information about the digitizer speed of your fluorescence instrument. Thank you.
+	</Comment>
+</Contact>
